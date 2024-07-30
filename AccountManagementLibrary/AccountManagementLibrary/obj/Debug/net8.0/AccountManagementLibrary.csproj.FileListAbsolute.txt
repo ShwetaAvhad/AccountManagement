@@ -1,0 +1,12 @@
+C:\Dotnet\25 Jul 2024\AccountManagementLibrary\AccountManagementLibrary\bin\Debug\net8.0\AccountManagementLibrary.deps.json
+C:\Dotnet\25 Jul 2024\AccountManagementLibrary\AccountManagementLibrary\bin\Debug\net8.0\AccountManagementLibrary.dll
+C:\Dotnet\25 Jul 2024\AccountManagementLibrary\AccountManagementLibrary\bin\Debug\net8.0\AccountManagementLibrary.pdb
+C:\Dotnet\25 Jul 2024\AccountManagementLibrary\AccountManagementLibrary\obj\Debug\net8.0\AccountManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\25 Jul 2024\AccountManagementLibrary\AccountManagementLibrary\obj\Debug\net8.0\AccountManagementLibrary.AssemblyInfoInputs.cache
+C:\Dotnet\25 Jul 2024\AccountManagementLibrary\AccountManagementLibrary\obj\Debug\net8.0\AccountManagementLibrary.AssemblyInfo.cs
+C:\Dotnet\25 Jul 2024\AccountManagementLibrary\AccountManagementLibrary\obj\Debug\net8.0\AccountManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Dotnet\25 Jul 2024\AccountManagementLibrary\AccountManagementLibrary\obj\Debug\net8.0\AccountManagementLibrary.dll
+C:\Dotnet\25 Jul 2024\AccountManagementLibrary\AccountManagementLibrary\obj\Debug\net8.0\refint\AccountManagementLibrary.dll
+C:\Dotnet\25 Jul 2024\AccountManagementLibrary\AccountManagementLibrary\obj\Debug\net8.0\AccountManagementLibrary.pdb
+C:\Dotnet\25 Jul 2024\AccountManagementLibrary\AccountManagementLibrary\obj\Debug\net8.0\ref\AccountManagementLibrary.dll
+C:\Dotnet\25 Jul 2024\AccountManagementLibrary\AccountManagementLibrary\obj\Debug\net8.0\AccountManagementLibrary.csproj.AssemblyReference.cache
